@@ -1,12 +1,6 @@
 # JUnit
 
-Git hub repository for the free Udemy course : 
-
-
-
 ## Get started with Junit
-
-
 
 ### Starting Examples
 ```
